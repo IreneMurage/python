@@ -33,17 +33,17 @@ r1.describe()
 
 
 
-# class Dogs:
+class Dogs:
 
-#     def __init__(self, name,breed):
-#         self.name = name
-#         self.breed = breed
-#         if self.name == "Rene"
-#             self.age = 5
-#             self.lunch = "Hotdog"
-#             self.Dinner = "Broiler"
-#         else:
-#             self.age = 7
-#             self.lunch = "A full Chicken"
-#             self.Dinner = "Dog treats"
+    def __init__(self, name,breed):
+        self.name = name
+        self.breed = breed
+        if self.name == "Rene"
+            self.age = 5
+            self.lunch = "Hotdog"
+            self.Dinner = "Broiler"
+        else:
+            self.age = 7
+            self.lunch = "A full Chicken"
+            self.Dinner = "Dog treats"
         
