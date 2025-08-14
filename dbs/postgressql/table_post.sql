@@ -1,0 +1,7 @@
+CREATE TABLE tm(
+    id SERIAL PRIMARY KEY
+);
+
+CREATE TABLE schools(
+    id SERIAL PRIMARY KEY
+);
