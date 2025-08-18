@@ -1,0 +1,17 @@
+--ALTER STATEMENT
+-- ALTER TABLE <table> <instruction<add, drop> <column>>
+-- Common Sense
+ALTER TABLE student 
+ADD 
+pocket_money INTEGER;
+-- DEFAULT VALUE or MAKE IT NULL
+-- UNIQUE
+
+-- ALTER IN STEPS
+-- CREATE MAKE IT NULL
+
+-- ADD THE DATA
+-- ALTER STAMENT TO CONSTRAIN THE COLUMN
+
+
+
